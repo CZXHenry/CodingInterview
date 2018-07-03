@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\codinginterview\solution.h(94): warning C4018: “<”: 有符号/无符号不匹配
+  CodingInterview.vcxproj -> D:\CodingInterview\Debug\CodingInterview.exe
+  CodingInterview.vcxproj -> D:\CodingInterview\Debug\CodingInterview.pdb (Full PDB)
